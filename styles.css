@@ -23,7 +23,10 @@ html, body {
 
 h2 {
     font-weight: normal;
-    font-size: 1.2em;    
+}
+
+#comingsoon {
+    font-size: 1.4em;
 }
 
 a {
@@ -67,6 +70,7 @@ a {
 }
 
 #instagram h2 {
+    font-size: 1.2em;    
     padding-top: 2em;
     padding-bottom: 2em;
     display: flex;
